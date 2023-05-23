@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет! Меня зовут Михаил. 👋
 
 <!--
 **MikhailDevW/MikhailDevW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
