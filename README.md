@@ -2,9 +2,9 @@
 Я python backend разработчик. Как и все, навреное, первый опыт программирования получил в школьное время на Pascal, тогда даже были попытки написать игру :). В университете изучался Си и в дальнейшем, на первой работе, был разработан софт на языке Си для устройства на микроконтроллере STM32.  
 Меня всегда привлекла веб-разработка и с 2022 года занимаюсь разработкой backend на Python. На данный момент веду пет-проект, который и дальше планирую развивать.
 
-<!--I'm a beginner python backend developer. I suppose, like everyone else, I got my first programming experience in school time on Pascal. There were even attempts to write a game on Pascal. I was learning C when I used to study in university and later, at the first job, I developed firmware for STM32 microcontroller. After tests, doc preparations it came in production and even today keep going. Therefore if your light turns-off suddenly, it may be my bugs :)
-I'm interested in web developing all my life and in 2022 Python has conquered me.
--->
+I'm a beginner python backend developer. I suppose, like everyone else, I got my first programming experience in school time on Pascal. There were even attempts to write a game on Pascal. I was learning C when I used to study in university and later, at the first job, I developed firmware for STM32 microcontroller. After tests, doc preparations it came in production and even today keep going.  
+I'm interested in web developing all my life and in 2022 Python has conquered me. at that momemt I lead my own pet-project, which I plan to expand.
+
 ### Контакты/Contacts:
 - email: jobhhunt21@yandex.ru
 - Telegram: @MikhailLivesey
