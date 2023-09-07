@@ -1,10 +1,10 @@
 ## 👋 Привет! Меня зовут Михаил. Hi! My name is Mikhail. 👋
-Я начинающий backend разработчик на Python. Как и все, навреное, первый опыт программирования получил в школьное время на Pascal, тогда даже были попытки написать игру :). В университете изучался Си и в дальнейшем, на первой работе, был разработан софт на языке Си для устройства на микроконтроллере STM32. Данное утсройство прошло обкату, и стало поставляться на подстанции страны :) Так что, если у вас пропал свет это может быть по моей вине :) 
+Я python backend разработчик. Как и все, навреное, первый опыт программирования получил в школьное время на Pascal, тогда даже были попытки написать игру :). В университете изучался Си и в дальнейшем, на первой работе, был разработан софт на языке Си для устройства на микроконтроллере STM32. Д
 Меня всегда привлекла веб-разработка и с 2022 года Python покорил меня.
 
-I'm a beginner python backend developer. I suppose, like everyone else, I got my first programming experience in school time on Pascal. There were even attempts to write a game on Pascal. I was learning C when I used to study in university and later, at the first job, I developed firmware for STM32 microcontroller. After tests, doc preparations it came in production and even today keep going. Therefore if your light turns-off suddenly, it may be my bugs :)
+<!--I'm a beginner python backend developer. I suppose, like everyone else, I got my first programming experience in school time on Pascal. There were even attempts to write a game on Pascal. I was learning C when I used to study in university and later, at the first job, I developed firmware for STM32 microcontroller. After tests, doc preparations it came in production and even today keep going. Therefore if your light turns-off suddenly, it may be my bugs :)
 I'm interested in web developing all my life and in 2022 Python has conquered me.
-
+-->
 ### Контакты/Contacts:
 - email: jobhhunt21@yandex.ru
 - Telegram: @MikhailLivesey
